@@ -3,8 +3,8 @@ h2 {text-align: center;}
 
  background-color: #328fa8;
 
-.Mydiv {
-  border: 5px outset red;  
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
   text-align: center;
 }
-
