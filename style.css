@@ -6,6 +6,7 @@ h2 {text-align: center;}
   border: 5px outset red;
   background-color: lightblue;    
   text-align: center;
+  height: auto; 
   width: 500px; 
   margin: auto;
 }
