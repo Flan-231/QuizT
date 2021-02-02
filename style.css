@@ -11,3 +11,9 @@ h2 {text-align: center;}
 ul.a {
   list-style-type: circle;
 }
+
+.myDiv2 {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
