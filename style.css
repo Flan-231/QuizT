@@ -7,3 +7,7 @@ h2 {text-align: center;}
   background-color: lightblue;    
   text-align: center;
 }
+
+ul.a {
+  list-style-type: circle;
+}
