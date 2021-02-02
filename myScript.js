@@ -1,2 +1,5 @@
-$(document).ready (function() {
-  $("start").click(function() {
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").toggle();
+  });
+});
