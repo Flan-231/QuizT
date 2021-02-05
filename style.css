@@ -15,3 +15,12 @@ ul.a {
   list-style-type: circle;
 }
 
+.myDiv2 {
+  border: 5px outset red;
+  background-color: lightgreen;    
+  text-align: center;
+  height: auto; 
+  width: 500px; 
+  margin: auto;
+}
+
