@@ -9,8 +9,17 @@
      
    </title> 
    <link href = "style.css" rel= "stylesheet">
-   <script src="myScript.js"></script>
    
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("#div1").fadeIn();
+    $("#div2").fadeIn("slow");
+    $("#div3").fadeIn(3000);
+  });
+});
+</script>
 </head>
 <body> 
   <h1> Welcome to Study Sets!</h1> 
